@@ -136,5 +136,4 @@ jupyter notebook
 > Разработал систему семантического поиска по англоязычным научным и русскоязычным документам. Реализовал TF-IDF и Transformer-based dense retrieval, контрастивное дообучение MiniLM, расчёт NDCG/Recall/MRR/MAP и выдачу top-10 документов. Получил NDCG@10 = 0.6899 на SciFact с дообученной MiniLM и NDCG@10 = 0.9275 на контролируемой выборке MIRACL RU с BGE-M3.
 
 ## Автор
-
-Павел Баранов · [GitHub](https://github.com/dud0k3)
+[GitHub](https://github.com/dud0k3)
