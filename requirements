@@ -1,0 +1,12 @@
+torch>=2.2
+transformers>=4.40
+datasets>=2.19
+sentence-transformers>=3.0
+FlagEmbedding>=1.2
+scikit-learn>=1.4
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+tqdm>=4.66
+jupyter>=1.0
+ipykernel>=6.29
