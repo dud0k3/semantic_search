@@ -102,13 +102,9 @@ cosine similarity с векторами документов
 
 ```text
 semantic_search/
-├── notebooks/
-│   ├── semantic_search_english.ipynb  # SciFact: TF-IDF, MiniLM, BGE-M3
-│   └── rus_semantic_search1.ipynb     # MIRACL RU: TF-IDF, MiniLM, BGE-M3
-├── assets/                            # Графики и изображения для README
-├── results/                           # metrics.csv и примеры выдачи
+├── semantic_search_english.ipynb  # SciFact: TF-IDF, MiniLM, BGE-M3
+└── rus_semantic_search1.ipynb     # MIRACL RU: TF-IDF, MiniLM, BGE-M3
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
